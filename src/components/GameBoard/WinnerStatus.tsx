@@ -71,9 +71,9 @@ const WinnerInfo = styled.div<WinnerInfoProps>`
 
   img {
     height: 28px;
+    margin-right: 10px;
     @media (min-width: 760px) {
       height: 60px;
-      margin-right: 10px;
     }
   }
   h2 {
